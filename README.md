@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This project was built using HTML and CSS. It was a fairly simple project and the focus was ensuring that the outcome of the page was a match with the giving design and the requirements in regards to the responsiveness.
 
-! [Design preview for the QR code component](./design/desktop-preview.jpg)
+![Design preview for the QR code component](./design/desktop-preview.jpg)
 
 ### Links
 
