@@ -18,8 +18,8 @@ This project was built using HTML and CSS. It was a fairly simple project and th
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live site URL: [QR code component]()
+- Solution URL: [Solution](https://github.com/TammyOgaji/qr-code-component-main-)
+- Live site URL: [QR code component](https://tammyogaji.github.io/qr-code-component-main-/)
 
 ## My process
 
